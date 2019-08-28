@@ -9,3 +9,5 @@ REPORT ZRDEMO_GIT_0001.
 
 
 WRITE:/ 'This is my first program for git'.
+
+WRITE:/ 'Modiy from github'.
