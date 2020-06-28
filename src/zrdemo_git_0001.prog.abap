@@ -12,5 +12,8 @@ WRITE:/ 'This is my first program for git'.
 
 WRITE:/ 'Modiy from github'.
 
-***Change by Zwl
-Write:/ 'good job'.
+"Add by zhenwl
+WRITE:/ 'Modify form local'.
+
+"commit to master
+WRITE:/ 'commit to master'.
