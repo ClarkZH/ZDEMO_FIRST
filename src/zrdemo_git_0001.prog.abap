@@ -14,6 +14,3 @@ WRITE:/ 'Modiy from github'.
 
 "Add by zhenwl
 WRITE:/ 'Modify form local'.
-
-"commit to master
-WRITE:/ 'commit to master'.
