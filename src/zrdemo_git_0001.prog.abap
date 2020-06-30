@@ -13,4 +13,4 @@ WRITE:/ 'This is my first program for git'.
 WRITE:/ 'Modiy from github'.
 
 "Add by zhenwl
-WRITE:/ 'Modify form local'.
+WRITE:/ 'Modify form master'.
