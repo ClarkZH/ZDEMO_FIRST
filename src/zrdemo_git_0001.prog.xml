@@ -4,6 +4,8 @@
   <asx:values>
    <PROGDIR>
     <NAME>ZRDEMO_GIT_0001</NAME>
+    <STATE>A</STATE>
+    <VARCL>X</VARCL>
     <SUBC>1</SUBC>
     <RLOAD>1</RLOAD>
     <FIXPT>X</FIXPT>
